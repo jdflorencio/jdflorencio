@@ -1,4 +1,3 @@
-
 ### Olá! Sou o João Diego ✌️
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-diego-florencio-de-oliveira-5b6b4b36/)
 
@@ -19,5 +18,7 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
 
     
-</div>
+</div> <br/>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdflorencio&langs_count=8)](https://github.com/jdflorencio/github-readme-stats)
