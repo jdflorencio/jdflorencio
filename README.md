@@ -6,14 +6,15 @@ Profissional da área de Tecnologia da Informação, com 7 anos de experiência,
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-diego-florencio-de-oliveira-5b6b4b36/)
 
 
+<div align="center">
+    <img align="center" alt="css" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+</div>
 
-
-![João Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=jdflorencio&show_icons=true&theme=tokyonight)
-
+<br />
 
 
 ## Tecnologias que uso no meu dia a dia
-#
+
 ### Front-end
 
 <div style="display: inline_block"><br />
@@ -46,6 +47,9 @@ Profissional da área de Tecnologia da Informação, com 7 anos de experiência,
     
 
 #
+
+![João Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=jdflorencio&show_icons=true&theme=tokyonight)
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdflorencio&langs_count=8)](https://github.com/jdflorencio/github-readme-stats)
